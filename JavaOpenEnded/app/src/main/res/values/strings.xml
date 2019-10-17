@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaOpenEnded</string>
+    <string-array name="users_array">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+
+
+</resources>
